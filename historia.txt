@@ -3,8 +3,5 @@ tengo 25 años
 
 hoy hablamos de su vida
 
-<<<<<<< HEAD
 y su carrera
-=======
 y su carrera 
->>>>>>> cabezera
